@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1027_4</string>
+    <string-array name="drinks">
+        <item>巧克力牛奶</item>
+        <item>奶茶</item>
+        <item>紅茶</item>
+        <item>咖啡</item>
+    </string-array>
+</resources>
